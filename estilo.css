@@ -1,0 +1,127 @@
+body{
+    background-color: #e08e78;
+    padding: 100px;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    padding-left: 100px;
+    color: #009694;
+    
+}
+
+h2{
+    text-align: center;
+    font-size: 50px;
+    padding-left: 50px;
+    color: #e08e78;
+}
+
+h3{
+    font-size: 25px; 
+    color: #f3baa9;
+}
+
+header{
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+p{
+    text-align:left;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+li{
+    font-size: 25px;
+    text-align: left;  
+}
+
+footer{
+    text-align: center;
+    font-size: 50px;
+    color: #009694;
+}
+
+#Logo-IOS-roxo{
+    width: 650px;
+    height: 250px;
+    margin-left: auto; 
+    margin-right: auto ; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+
+}
+
+#megafone{
+    width: 300px;
+    padding-top: 90px;
+}
+
+#foto1{
+    width: 300px;
+    height: 300px;
+    margin-right: auto ; 
+    
+}
+
+#foto2{
+    width: 500px;
+    height: 300px;
+    margin-right: auto ;
+}
+
+#box-1{
+    margin-left: 25px;
+    background-color: #2dc2ac;
+    width: 300px;
+    text-align:center;
+}
+
+#box-2{
+    margin-left: 25px;
+    background-color: #2dc2ac;
+    width: 300px;
+    text-align:center;
+}
+#box-3{
+    margin-left: 25px;
+    background-color: #2dc2ac;
+    width: 300px;
+    text-align:center;
+}
+
+.container-principal{
+    background-color: #f2e3e0;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.container2{
+    background-color: #009694;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+
+.container1{
+    width:100% ;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.box{
+    float:left;
+    margin-left: 10px; 
+    text-align:center;
+    width: 300px;
+    height: 250px;
+}
+
+
+
